@@ -1,2 +1,2 @@
-# timeline_in_python
+# TimeLine In Python
 Simple Timeline Plot In Python with Matplotlib
